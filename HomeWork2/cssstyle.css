@@ -1,2 +1,30 @@
-﻿body {
+﻿#container {
+    font-family:sans-serif;
+    text-align: center;
+    width: 1200px;
+}
+#header {
+    font-size: 25px;
+    text-align: center;
+    background-color: #00d6ff;
+    font-weight: bold;
+}
+#main{
+    height : 700px;
+}
+#tableLeft { 
+    text-align : center;
+}
+#tableCenter{
+
+}
+#main > left_div{
+    width : 20%;
+}
+#main > center_div {
+    width : 60%;
+}
+#main > right_div {
+    width: 20%;
+    padding-top: 200px;
 }
