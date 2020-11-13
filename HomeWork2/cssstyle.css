@@ -9,14 +9,14 @@
     background-color: #00d6ff;
     font-weight: bold;
 }
-#main{
-    height : 700px;
+#container > main {
+    height: 700px;
 }
 #tableLeft { 
     text-align : center;
 }
-#tableCenter{
-
+#tableCenter {
+    text-align: center;
 }
 #main > left_div{
     width : 20%;
